@@ -1,0 +1,10 @@
+C:\Projects\TypeShapeTry\TypeShapeTry\bin\Debug\netcoreapp2.2\TypeShapeTry.deps.json
+C:\Projects\TypeShapeTry\TypeShapeTry\bin\Debug\netcoreapp2.2\TypeShapeTry.runtimeconfig.json
+C:\Projects\TypeShapeTry\TypeShapeTry\bin\Debug\netcoreapp2.2\TypeShapeTry.runtimeconfig.dev.json
+C:\Projects\TypeShapeTry\TypeShapeTry\bin\Debug\netcoreapp2.2\TypeShapeTry.dll
+C:\Projects\TypeShapeTry\TypeShapeTry\bin\Debug\netcoreapp2.2\TypeShapeTry.pdb
+C:\Projects\TypeShapeTry\TypeShapeTry\obj\Debug\netcoreapp2.2\TypeShapeTry.fsprojAssemblyReference.cache
+C:\Projects\TypeShapeTry\TypeShapeTry\obj\Debug\netcoreapp2.2\TypeShapeTry.AssemblyInfoInputs.cache
+C:\Projects\TypeShapeTry\TypeShapeTry\obj\Debug\netcoreapp2.2\TypeShapeTry.AssemblyInfo.fs
+C:\Projects\TypeShapeTry\TypeShapeTry\obj\Debug\netcoreapp2.2\TypeShapeTry.dll
+C:\Projects\TypeShapeTry\TypeShapeTry\obj\Debug\netcoreapp2.2\TypeShapeTry.pdb
